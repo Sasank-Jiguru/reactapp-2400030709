@@ -1,9 +1,8 @@
-import './App.css'
+import NavBar from './pages/NavBar.jsx'
+import './style.css'
 
 function App() {
-  return (
-    <h1>wassup guys</h1>
-  )
+  return <NavBar />
 }
 
 export default App
